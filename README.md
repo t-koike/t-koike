@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=t-koike&theme=onedark&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=t-koike&theme=onedark&column=7" />
 </div>
 
