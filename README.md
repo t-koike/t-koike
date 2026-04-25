@@ -16,20 +16,42 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <a href="https://github.com/t-koike"><img src="https://komarev.com/ghpvc/?username=t-koike" alt="t-koike" /></a>
+  <a href="https://github.com/t-koike"><img src="https://komarev.com/ghpvc/?t-koike=t-koike" alt="t-koike" /></a>
   <a href="https://github.com/t-koike"><img height="20" src="https://img.shields.io/github/followers/t-koike?label=follow&logo=github&style=flat" /></a>
   <a href="https://github.com/t-koike"><img height="20" src="https://img.shields.io/github/stars/t-koike?logo=github&style=flat" /></a>
 </p>
 
-### Recent Activities
+## My GitHub Stats
+
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-koike&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=t-koike&theme=transparent&hide_border=true" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/t-koike/t-koike/output-3d-contrib/day.svg" />
+  </picture>
+  <picture>
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/t-koike/t-koike/output-3d-contrib/day.svg" />
+  </picture>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t-koike&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
+<p align="left" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/t-koike/t-koike/output-3d-contrib/day.svg" />
+	</picture>
+</p>　
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/t-koike/t-koike/output-3d-contrib/day.svg" />
+  </picture>
+</p>
+
 
 
