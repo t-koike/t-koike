@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
+  <a href="https://github.com/t-koike/t-koike/">
+    <img src="https://komarev.com/ghpvc/?username=t-koike" alt="t-koike" />
+  </a>
+  <a href="https://github.com/t-koike">
+    <img height="20" src="https://img.shields.io/github/followers/t-koike?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/t-koike"><img height="20" src="https://img.shields.io/github/followers/t-koike?label=follow&logo=github&style=flat" /></a>
   <a href="https://github.com/t-koike"><img height="20" src="https://img.shields.io/github/stars/t-koike?logo=github&style=flat" /></a>
 </p>
