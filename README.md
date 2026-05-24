@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 | **Editor** | Neovim |
 | **Shell** | bash |
 | **Terminal** | WezTerm |
-| **OS** | NixOS, Almalinux, Android |
+| **OS** | Almalinux, Android |
 | **PC** | Thinkpad, HHKB |
 <!--END_SECTION:github_profile_bio-->
 
