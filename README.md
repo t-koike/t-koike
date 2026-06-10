@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 | **Shell** | bash |
 | **Terminal** | WezTerm |
 | **OS** | Almalinux, Android |
-| **PC** | Thinkpad, HHKB |
 <!--END_SECTION:github_profile_bio-->
 
 ### Recent Activities
