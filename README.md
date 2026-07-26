@@ -44,7 +44,6 @@ Some interesting statistics about my activities.
 </p>
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t-koike&theme=transparent" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=t-koike&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true" />
 </p>
 
