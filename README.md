@@ -36,12 +36,15 @@ I am a **Site Reliability Engineer (SRE)**.
 
 ### Recent Activities
 
+Some interesting statistics about my activities.
+
 <p align="left">
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-koike&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a> -->
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=t-koike&theme=transparent" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://streak-stats.demolab.com/?user=t-koike&theme=transparent&hide_border=true" /></a>
+  <img src="https://streak-stats.demolab.com?user=t-koike&theme=nightowl&border_radius=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=t-koike&theme=nightowl" />
 </p>
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t-koike&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=t-koike&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t-koike&theme=transparent" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t-koike&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true" />
+</p>
 
