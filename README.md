@@ -39,11 +39,8 @@ I am a **Site Reliability Engineer (SRE)**.
 Some interesting statistics about my activities.
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=t-koike&theme=nightowl&border_radius=8" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=t-koike&theme=nightowl" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="output/general-metrics.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="output/general-metrics.svg" width="400" />
+  </picture>
 </p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t-koike&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true" />
-</p>
-
