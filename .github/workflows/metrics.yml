@@ -24,14 +24,3 @@ jobs:
           config_order: base.header, isocalendar
           plugin_isocalendar: yes
 
-      - name: Language
-        uses: lowlighter/metrics@latest
-        with:
-          filename: output/language-metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_recent_days: 365
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
