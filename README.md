@@ -39,8 +39,7 @@ I am a **Site Reliability Engineer (SRE)**.
 Some interesting statistics about my activities.
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="output/general-metrics.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/general-metrics.svg" width="400" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=t-koike&theme=nightowl&border_radius=8" />
 </p>
+
+<img align="left" width="400" src="output/general-metrics.svg" />
