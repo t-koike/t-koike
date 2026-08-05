@@ -28,9 +28,9 @@ I am a **Site Reliability Engineer (SRE)**.
 | | |
 |---:|:---|
 | **Role** | Site Reliability Engineer |
-| **Editor** | Neovim, Visual Studio Code |
+| **Editor** | Neovim, Zed |
 | **Shell** | bash |
-| **Terminal** | WezTerm |
+| **Terminal** | WezTerm, Zellij |
 | **OS** | Windows, Almalinux |
 <!--END_SECTION:github_profile_bio-->
 
