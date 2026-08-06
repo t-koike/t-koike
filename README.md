@@ -30,7 +30,7 @@ I am a **Site Reliability Engineer (SRE)**.
 | **Role** | Site Reliability Engineer |
 | **Editor** | Neovim, Zed |
 | **Shell** | bash |
-| **Terminal** | WezTerm, Zellij |
+| **Terminal** | WezTerm, Herdr |
 | **OS** | Windows, Almalinux |
 <!--END_SECTION:github_profile_bio-->
 
