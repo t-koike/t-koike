@@ -17,10 +17,11 @@ jobs:
       - name: General
         uses: lowlighter/metrics@latest
         with:
-          filename: output/general-metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity, community, repositories
-          base_indepth: yes
+          token: ${{ secrets.PROFILE_METRICS_TOKEN }}
+          base: header, activity, repositories, metadata
+          config_timezone: Asia/Tokyo
+          config_display: large
           config_order: base.header, isocalendar
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
