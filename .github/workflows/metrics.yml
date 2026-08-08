@@ -17,6 +17,7 @@ jobs:
       - name: General
         uses: lowlighter/metrics@latest
         with:
+          filename: output/general-metrics.svg
           token: ${{ secrets.PROFILE_METRICS_TOKEN }}
           base: header, activity, repositories, metadata
           config_timezone: Asia/Tokyo
