@@ -38,8 +38,4 @@ I am a **Site Reliability Engineer (SRE)**.
 
 Some interesting statistics about my activities.
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=t-koike&theme=nightowl&border_radius=8" />
-</p>
-
 <img align="left" src="output/general-metrics.svg" />
